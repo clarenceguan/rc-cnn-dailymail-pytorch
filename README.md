@@ -39,8 +39,8 @@ These instructions will get you running the codes of this model.
 
 ```
 python main.py --train_date_path [path]
-			   --test_date_path [path]
-			   --glove_path [path]
+	       --test_date_path [path]
+	       --glove_path [path]
 ```
 
 ### Reference
